@@ -1,17 +1,111 @@
+<style type="text/css">
+    div.col-md-4 div.home-image {
+    }
+    div.col-md-4 {
+        border:1px solid black;
+        border-radius: 4px;
+    }
+    div.container {
+        background-color: #B0BCC4;
+        padding-left:0;
+        padding-right:0;
+    }
+    div.body-background {
+        background-color: #223947;
+    }
+    div.header-row {
+        background-color:white;
+        border-bottom: solid 4px #0064A6;
+        margin-left:0;
+        margin-right:0;
+    }
+    div.home-prod-cat {
+        margin-left:0;
+        margin-right:0;
+    }
+    div.navbar {
+        border-radius:0;
+    }
+</style>
+(!TOPIC Name="HomePage.HomeImage"!)
 <div class="row home-prod-cat">
-	<div class="col-md-4">
-		<div class="home-image">
-			<img src="/skins/custom-001/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block">
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="home-image">
-			<img src="/skins/custom-001/images/home/seating.png" alt="Seating" class="img-responsive center-block">
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="home-image">
-			<img src="/skins/custom-001/images/home/conference.png" alt="Conference" class="img-responsive center-block">
-		</div>
-	</div>
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block" />
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home/seating.png" alt="Seating" class="img-responsive center-block" />
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home/conference.png" alt="Conference" class="img-responsive center-block" />
+        </div>
+    </div>
 </div>
+<div class="row home-prod-cat">
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home1.jpg" alt="Store Image One" class="img-responsive center-block" />
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home2.jpg" alt="Store Image Two" class="img-responsive center-block" />
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="home-image">
+            <img src="(!SkinPath!)/images/home3.jpg" alt="Store Image Three" class="img-responsive center-block" />
+        </div>
+    </div>
+</div>
+<!--<div class="row">
+<div class="col-md-6">
+<p>Your AspDotNetStorefront store is a thing of beauty right out of the box, but it's almost certain that you're going to want to stamp your own brand identity onto the 'skin'.</p>
+<h3>Three ways to personalize your store design</h3>
+<div class="row">
+<div class="col-md-4">
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=adminskinning" class="thumbnail" target="_blank">
+<img alt="Use the admin wizard" src="(!SkinPath!)/images/box1.jpg" />
+</a>
+</div>
+<div class="col-md-4">
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=learntoskin" class="thumbnail" target="_blank">
+<img alt="Learn how to skin a store" src="(!SkinPath!)/images/box2.jpg" />
+</a>
+</div>
+<div class="col-md-4">
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=expertskinning" class="thumbnail" target="_blank">
+<img alt="Hire the experts to help" src="(!SkinPath!)/images/box3.jpg" />
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4 text-center">
+<h4>
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=adminskinning" target="_blank">
+Use the provided admin wizard
+</a>
+</h4>
+</div>
+<div class="col-md-4 text-center">
+<h4>
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=learntoskin" target="_blank">Learn how to 'skin' a store</a>
+</h4>
+</div>
+<div class="col-md-4 text-center">
+<h4>
+<a href="http://www.aspdotnetstorefront.com/linkmanager.aspx?topic=10000skin&amp;type=expertskinning" target="_blank">Hire the experts to help</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="home-image">
+<img src="(!SkinPath!)/images/home4.jpg" alt="Store Image Four" class="img-responsive center-block" />
+</div>
+</div>
+</div>-->

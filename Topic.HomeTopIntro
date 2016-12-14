@@ -1,0 +1,17 @@
+<div class="row home-prod-cat">
+	<div class="col-md-4">
+		<div class="home-image">
+			<img src="/skins/custom-001/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block">
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="home-image">
+			<img src="/skins/custom-001/images/home/seating.png" alt="Seating" class="img-responsive center-block">
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="home-image">
+			<img src="/skins/custom-001/images/home/conference.png" alt="Conference" class="img-responsive center-block">
+		</div>
+	</div>
+</div>

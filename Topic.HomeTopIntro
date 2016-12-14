@@ -1,64 +1,158 @@
-<style type="text/css"> 
+<style type="text/css">
     div.col-md-4 div.home-image {
     }
     div.col-md-4 {
-        border:1px solid black;
-        border-radius: 4px;
     }
     div.container {
-        background-color: #B0BCC4;
-        padding-left:0;
-        padding-right:0;
+    background-color: #B0BCC4;
+    padding-left:0;
+    padding-right:0;
     }
     div.body-background {
-        background-color: #223947;
+    background-color: #223947;
     }
     div.header-row {
-        background-color:white;
-        border-bottom: solid 4px #0064A6;
-        margin-left:0;
-        margin-right:0;
+    background-color:white;
+    border-bottom: solid 4px #0064A6;
+    margin-left:0;
+    margin-right:0;
     }
     div.home-prod-cat {
-        margin-left:0;
-        margin-right:0;
+    margin-left:0;
+    margin-right:0;
     }
     div.navbar {
-        border-radius:0;
+    border-radius:0;
+    background-color:white;
+    margin-bottom:0 !important;
+    }
+    a.dropdown-toggle {
+    color: #0064A6 !important;
+    }
+</style>
+<style type="text/css">
+    div.prod-box {
+    min-height: 32rem;
+    position: relative;
+    padding: 1rem;
+    text-align: left;
+    border: solid 4px #1c2f3b;
+    border-radius: 2%;
+    background-color: white;
+    width: 90%;
+    margin: 2rem auto;
+    }
+    div.prod-cat-container {
+    height: 5rem;
+    }
+    h4.prod-cat-name {
+    font-family: clarendon-text-pro;
+    letter-spacing: 0;
+    font-size: 16px;
+    }
+    div.prod-cat-img-container {
+    position: relative;
+    height: 25rem;
+    }
+    div.prod-cat-img-container > img {
+    border: 0px solid black;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    }
+    div.prod-cat-copy-container {
+    height: 12rem;
+    }
+    p.prod-cat-copy-2 {
+    font-size: 12px;
     }
 </style>
 (!TOPIC Name="HomePage.HomeImage"!)
 <div class="row home-prod-cat">
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block" />
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home/seating.png" alt="Seating" class="img-responsive center-block" />
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home/conference.png" alt="Conference" class="img-responsive center-block" />
-        </div>
-    </div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Desks &amp; Workstations</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Create your own office environment from our extensive offering of affordable and durable modular workstation components and desk styles.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Seating</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/seating.png" alt="Seating" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">We feature a wide variety of seating options for almost any scenario.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Conference</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/conference.png" alt="Conference" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Conference furnishing options to fit and accommodate your style and space. We have conference tables that range in sizes from small to very large.</p>
+</div>
+</div>
+</div>
 </div>
 <div class="row home-prod-cat">
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home1.jpg" alt="Store Image One" class="img-responsive center-block" />
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home2.jpg" alt="Store Image Two" class="img-responsive center-block" />
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="home-image">
-            <img src="(!SkinPath!)/images/home3.jpg" alt="Store Image Three" class="img-responsive center-block" />
-        </div>
-    </div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Desks &amp; Workstations</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Create your own office environment from our extensive offering of affordable and durable modular workstation components and desk styles.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Seating</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/seating.png" alt="Seating" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">We feature a wide variety of seating options for almost any scenario.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Conference</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/conference.png" alt="Conference" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Conference furnishing options to fit and accommodate your style and space. We have conference tables that range in sizes from small to very large.</p>
+</div>
+</div>
+</div>
 </div>

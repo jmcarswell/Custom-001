@@ -2,6 +2,47 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	@Html.Partial("_Head")
+<style type="text/css">
+ div.container {
+    background-color: #B0BCC4;
+    padding-left:0;
+    padding-right:0;
+    }
+    div.body-background {
+    background-color: #223947;
+    }
+    div.header-row {
+    background-color:white;
+    border-bottom: solid 4px #0064A6;
+    margin-left:0;
+    margin-right:0;
+    }
+    div.navbar {
+    border-radius:0;
+    background-color:white;
+    margin-bottom:0 !important;
+    }
+    a.dropdown-toggle {
+    color: #0064A6 !important;
+    }
+ div.footer {
+    padding-top: 0;
+    background-color:#223947;
+    border-top:0;
+    padding-left:0;
+    }
+div.footer > div.container {
+    border-top: solid 4px #0064A6;
+    background-color:white;
+    padding-top:5px;
+    }
+div.footer div.col-sm-12 {
+    text-align:center;
+    }
+div.sub-footer {
+    text-align:center;
+    }
+</style>
 </head>
 <body>
 	@Html.Partial("_BodyOpen")
@@ -119,5 +160,6 @@
 	@Html.Action(ActionNames.MinicartResources, ControllerNames.Minicart)
 	
 	@Html.Partial("_BodyClose")
+		<h1>Test row!</h1>
 </body>
 </html>

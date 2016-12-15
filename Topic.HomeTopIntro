@@ -29,6 +29,23 @@
     a.dropdown-toggle {
     color: #0064A6 !important;
     }
+    div.footer {
+    padding-top:0;
+    background-color:#223947;
+    border-top:0;
+    padding-left:0;
+    }
+    div.footer > div.container {
+    border-top: solid 4px #0064A6;
+    background-color:white;
+    padding-top:5px;
+    }
+    div.footer div.col-sm-12 {
+    text-align:center;
+    }
+    div.sub-footer {
+    text-align:center;
+    }
 </style>
 <style type="text/css">
     div.prod-box {

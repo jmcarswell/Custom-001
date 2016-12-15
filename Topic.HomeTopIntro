@@ -1,4 +1,8 @@
 <style type="text/css">
+    div.body-wrapper {
+    padding-left:0;
+    padding-right:0;
+    }
     div.home-prod-cat {
     margin-left:0;
     margin-right:0;

@@ -1,53 +1,8 @@
 <style type="text/css">
-    div.col-md-4 div.home-image {
-    }
-    div.col-md-4 {
-    }
-    div.container {
-    background-color: #B0BCC4;
-    padding-left:0;
-    padding-right:0;
-    }
-    div.body-background {
-    background-color: #223947;
-    }
-    div.header-row {
-    background-color:white;
-    border-bottom: solid 4px #0064A6;
-    margin-left:0;
-    margin-right:0;
-    }
     div.home-prod-cat {
     margin-left:0;
     margin-right:0;
     }
-    div.navbar {
-    border-radius:0;
-    background-color:white;
-    margin-bottom:0 !important;
-    }
-    a.dropdown-toggle {
-    color: #0064A6 !important;
-    }
-    div.footer {
-    padding-top:0;
-    background-color:#223947;
-    border-top:0;
-    padding-left:0;
-    }
-    div.footer > div.container {
-    border-top: solid 4px #0064A6;
-    background-color:white;
-    padding-top:5px;
-    }
-    div.footer div.col-sm-12 {
-    text-align:center;
-    }
-    div.sub-footer {
-    text-align:center;
-    }
-</style>
-<style type="text/css">
     div.prod-box {
     min-height: 32rem;
     position: relative;

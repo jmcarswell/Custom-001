@@ -50,7 +50,11 @@
     }
 </style>
 (!TOPIC Name="HomePage.HomeImage"!)
+
+<!--PROD CATS ROW 1-->
+
 <div class="row home-prod-cat">
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
@@ -64,6 +68,7 @@
 </div>
 </div>
 </div>
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
@@ -77,6 +82,7 @@
 </div>
 </div>
 </div>
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
@@ -90,45 +96,101 @@
 </div>
 </div>
 </div>
+
 </div>
+
+<!--PROD CATS ROW 2-->
+
 <div class="row home-prod-cat">
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
-<h4 class="prod-cat-name"><a href="/desks">Desks &amp; Workstations</a></h4>
+<h4 class="prod-cat-name"><a href="/desks">Training Room</a></h4>
 </div>
 <div class="prod-cat-img-container">
-<img src="(!SkinPath!)/images/home/workstations.png" alt="Desks &amp; Workstations" class="img-responsive center-block" />
+<img src="(!SkinPath!)/images/home/training-room.jpeg" alt="Training Room" class="img-responsive center-block" />
 </div>
 <div class="prod-cat-copy-container">
-<p class="prod-cat-copy-2">Create your own office environment from our extensive offering of affordable and durable modular workstation components and desk styles.</p>
+<p class="prod-cat-copy-2">Our training room furnishing options set the right tone with durable, economical, and professional designs.</p>
 </div>
 </div>
 </div>
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
-<h4 class="prod-cat-name"><a href="/desks">Seating</a></h4>
+<h4 class="prod-cat-name"><a href="/desks">Reception &amp; Lounge</a></h4>
 </div>
 <div class="prod-cat-img-container">
-<img src="(!SkinPath!)/images/home/seating.png" alt="Seating" class="img-responsive center-block" />
+<img src="(!SkinPath!)/images/home/reception-lounge.jpeg" alt="Reception &amp; Lounge" class="img-responsive center-block" />
 </div>
 <div class="prod-cat-copy-container">
-<p class="prod-cat-copy-2">We feature a wide variety of seating options for almost any scenario.</p>
+<p class="prod-cat-copy-2">Our reception and lounge furniture options are sure to make clients, employees, and other visitors feel comfortable and right at home.</p>
 </div>
 </div>
 </div>
+
 <div class="col-md-4">
 <div class="home-image prod-box">
 <div class="prod-cat-container">
-<h4 class="prod-cat-name"><a href="/desks">Conference</a></h4>
+<h4 class="prod-cat-name"><a href="/desks">Filing &amp; Storage</a></h4>
 </div>
 <div class="prod-cat-img-container">
-<img src="(!SkinPath!)/images/home/conference.png" alt="Conference" class="img-responsive center-block" />
+<img src="(!SkinPath!)/images/home/filing.png" alt="Filing &amp; Storage" class="img-responsive center-block" />
 </div>
 <div class="prod-cat-copy-container">
-<p class="prod-cat-copy-2">Conference furnishing options to fit and accommodate your style and space. We have conference tables that range in sizes from small to very large.</p>
+<p class="prod-cat-copy-2">We have many options available to fulfill virtually all of your filing and storage needs.</p>
 </div>
 </div>
 </div>
+
+</div>
+
+<!--PROD CATS ROW 3-->
+
+<div class="row home-prod-cat">
+
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Bookcases</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/bookcases.png" alt="bookcases" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">We offer different styles, sizes, and finishes of bookcases in laminate, wood veneer, and metal.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Accessories</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/accessories.png" alt="accessories" class="img-responsive center-block" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Our numerous accessories include center drawers, keyboard trays, task lights, conference table power modules, above desk power modules, marker boards, media carts, monitor arms, and more.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="home-image prod-box">
+<div class="prod-cat-container">
+<h4 class="prod-cat-name"><a href="/desks">Catalog</a></h4>
+</div>
+<div class="prod-cat-img-container">
+<img src="(!SkinPath!)/images/home/ndi-catalog.jpeg" alt="catalog" class="img-responsive center-block" style="border:2px solid black;" />
+</div>
+<div class="prod-cat-copy-container">
+<p class="prod-cat-copy-2">Our annual full-line catalog is filled with products to fit just about any office furniture need. </p>
+</div>
+</div>
+</div>
+
 </div>

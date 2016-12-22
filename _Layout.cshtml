@@ -94,6 +94,7 @@ div.product-page > div.row {
 					</div>
 					<div class="navbar-collapse collapse" id="top-nav-collapse">
 						<ul class="nav navbar-nav">
+							<!--CATEGORIES-->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 									@Html.StringResource("responsiveskin.categorymenulabel")
@@ -101,6 +102,62 @@ div.product-page > div.row {
 								</a>
 								@Html.XmlPackage("entitymenu", new { entitytype = "category" })
 							</li>
+							<!--IMAGE LIBRARY-->
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+									Image Library
+									<span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li>
+										<a href="/sitemap/">
+											Desks &amp; Workstations
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Seating
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Conference
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Filing &amp; Storage
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Reception &amp; Lounge
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Training Room
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Bookcases
+										</a>
+									</li>
+									<li>
+										<a href="/sitemap/">
+											Accessories
+										</a>
+									</li>
+								</ul>
+							</li>
+							<!--CATALOG-->
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+									Catalog
+								</a>
+							</li>
+							<!--VENDORS-->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 									@Html.StringResource("responsiveskin.manufacturermenulabel")
@@ -108,6 +165,7 @@ div.product-page > div.row {
 								</a>
 								@Html.XmlPackage("entitymenu", new { entitytype = "manufacturer" })
 							</li>
+							<!--ACCOUNT-->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 									@Html.StringResource("responsiveskin.accountmenulabel")
@@ -138,18 +196,11 @@ div.product-page > div.row {
 									</li>
 								</ul>
 							</li>
+							<!--NEWS-->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-									New Item
-									<span class="caret"></span>
+									News
 								</a>
-								<ul class="dropdown-menu">
-									<li>
-										<a href="/sitemap/">
-											Dropdown 1
-										</a>
-									</li>
-								</ul>
 							</li>
 						</ul>
 						<div class="nav navbar-nav navbar-right navbar-form search-wrap">

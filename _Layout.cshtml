@@ -55,6 +55,9 @@ div.breadcrumb {
 	background-color:white;
 	border-radius:0;
 }
+a.user-link {
+	color:#337ab7;
+}
 </style>
 <style type="text/css">
 /*This section covers styling for the Product Page */
@@ -132,6 +135,19 @@ div.product-page > div.row {
 									<li class="divider"></li>
 									<li>
 										@Html.Action(ActionNames.LoginLinks, ControllerNames.UserLinks)
+									</li>
+								</ul>
+							</li>
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+									New Item
+									<span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li>
+										<a href="/sitemap/">
+											Dropdown 1
+										</a>
 									</li>
 								</ul>
 							</li>

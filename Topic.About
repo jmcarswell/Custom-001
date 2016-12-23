@@ -1,0 +1,237 @@
+<div class="row" style="text-align:left; height: 5rem; border: 0px solid black; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">About NDI</h2>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="row" style="background-color:white;">
+            <hr>
+        </div>
+        <div class="row" style="background-color:white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <ul style="list-style: none inside; line-height: 2rem; font-size: 2rem;">
+                    <li><a href="#who-we-are">Who We Are</a>
+                    </li>
+                    <li><a href="#our-story">Our Story</a>
+                    </li>
+                    <li><a href="#our-territories">Our Territories</a>
+                    </li>
+                    <li><a href="#our-vendors">Our Vendors</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        
+        <!--About NDI section ends here-->
+        
+        <!--Who We Are section starts here -->
+        
+        <div class="row" style="text-align:left; height: 5rem; border: 0px solid black; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Who We Are<a id="who-we-are"></a></h2>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="row" style="background-color:white;">
+            <hr>
+        </div>
+        <div class="row" style="text-align:left; height: auto; border: 0px solid black; font-family: proxima-nova; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8" style="border:solid 0px #1c2f3b; background-color:white; margin-top:0.5rem;">
+                <ul style="font-size: 1.6rem; margin: 0 6rem; list-style:outside;">
+                    <li>WE ARE an office furniture distributor located in the southeast. We take pride in our southern heritage and place an emphasis on <strong>southern-style service</strong>.</li>
+                    <li>WE DELIVER from 3 Distribution &amp; Logistic Centers (located in AL, FL and TX) with more than <strong>200,000 square feet</strong> of space on <strong>NDI trucks driven by NDI employees</strong>. We own the process from start to finish so that we can be the best for you!</li>
+                    <li>WE SERVE YOU through customer service teams staffed by <strong>friendly</strong> professionals from Dallas and Nashville. We are always ready and happy to get it done for you!</li>
+                    <li>FOR OVER <strong>30 YEARS</strong> we’ve been knocking it out of the park for our customers in the southeast. We're ready to show you the difference NDI makes!</li>
+                </ul>
+                <br>
+                <p style="font-size: 2rem; margin: 0 1rem; text-align:center; font-weight:800;"><em>WE ARE the standard for service in the southeastern United States. Don’t settle for anything less!</em></p>
+                <br>
+                <br>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+            
+        </div>
+        
+        <!--Who We Are section ends here -->
+        
+        <!--Our Story section starts here -->
+        
+        <div class="row" style="text-align:left; height: 5rem; border: 0px solid black; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Our Story<a id="our-story"></a></h2>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="row" style="background-color:white;">
+            <hr>
+        </div>
+        <div class="row" style="text-align:left; height: auto; border: 0px solid black; font-family: proxima-nova; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8" style="border:solid 0px #1c2f3b; background-color:white; margin-top:0.5rem;">
+                <p style="font-size: 1.6rem; margin: 0 1rem;"><em>NDI Office Furniture was founded in 1980 and started with one location Nashville, TN. It was during those early years NDI became known as one of the premier independent distributors in the office furniture industry. Rogers Morrison Jr. retired in early 2013 and the company is now owned by Jimmy Green and Tim Meaders.<br><br>
+                    
+                    NDI has continued to grow and change over the years with expanded reach that now covers most of 10 states in the Southeast. We have 3 distribution centers: Ocala, FL; Birmingham, AL; and Dallas, TX. Our corporate office and Southeastern customer service center are in Nashville, TN. Our Southwestern customer service center is located in Dallas, TX.<br><br>
+                    
+                    We are passionate about providing great customer service, deep inventory, consistent delivery, and excellent marketing programs. We look forward to every opportunity to provide you with excellence in all we do. Give us a call and let us show you that we mean it.<br><br>
+                    
+                    We have our customers to thank for our success!</em>
+                </p>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+            
+        </div>
+        
+        <!--Our Story section ends here -->
+        
+        <!--Our Territories section stars here -->
+        
+        <div class="row" style="text-align:left; height: 5rem; border: 0px solid black; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Our Territories<a id="our-territories"></a></h2>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="row" style="background-color:white;">
+            <hr>
+        </div>
+        <div class="row" style="text-align:left; height: auto; border: 0px solid black; font-family: proxima-nova; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8" style="border:solid 0px #1c2f3b; background-color:white; margin-top:0.5rem;">
+                <p style="font-size: 1.6rem; margin: 0 1rem;"><em>NDI Office Furniture is the largest office furniture distributor in the Southern United States. From our 3 distribution centers in Birmingham, AL; Dallas, TX; and our newest location in Ocala, FL, we deliver weekly to a 10 state area including Kentucky, Arkansas, Texas, Oklahoma, Tennessee, Louisiana, Mississippi, Alabama, Georgia, and Florida.</em>
+                </p>
+                <img id="states" style="display:block; margin: 2rem auto;" src="images/States-Illustration.jpg">
+                <p style="font-size: 2rem; margin: 0 1rem; text-align:center;">
+                    <br>
+                    <br>
+                    <!--<strong><a href="//ndiof.com/docs/NDI-delivery-sked-by-city-20161101.pdf" target="_blank" onclick="ga('send', 'event', 'Link', 'click', this.innerText);">View Delivery Schedule</a></strong>-->
+                    <input style="width:240px; margin:0.5rem 0; background-color: green; color: white;" value="View Delivery Schedule" onclick="window.open('//ndiof.com/docs/NDI-delivery-sked-by-city-20161101.pdf'); ga('send', 'event', 'Button', 'click', this.value);" type="button">
+                </p>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+            
+        </div>
+        
+        <!--Our Territories section ends here -->
+        
+        <!--Our Vendors section stars here -->
+        <div class="row" style="text-align:left; height: 5rem; border: 0px solid black; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8">
+                <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Our Vendors<a id="our-vendors"></a></h2>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+        <div class="row" style="background-color:white;">
+            <hr>
+        </div>
+        <div class="row" style="text-align:left; height: auto; border: 0px solid black; font-family: proxima-nova; background-color: white;">
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-8" style="border:solid 0px #1c2f3b; background-color:white; margin-top:0.5rem;">
+                <p style="font-size: 1.6rem; margin: 0 1rem;"><em>As we select our vendors, we look for those companies that provide outstanding quality and value. Each of our vendors produce products that are built to last so you can feel comfortable representing these product lines to your customers. Each line is backed by an exceptional manufacturers warranty.</em>
+                </p>
+                <table class="table1" style="width:100%; margin:3rem 0; border: 0;">
+                    <thead>
+                        <tr>
+                            <td style="width: 67%; position:relative; left: 3rem; font-size: 1.5rem;" colspan="2"><strong>MANUFACTURERS</strong>
+                            </td>
+                            <td style="width: 33%; position:relative; left: 0rem; font-size: 1.5rem;"><strong>NON-CATALOG MANUFACTURERS</strong>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="http://moorecoinc.com/" target="_blank">Best-Rite</a>
+                            </td>
+                            <td><a href="http://www.performancefurnishings.com/" target="_blank">Performance</a>
+                            </td>
+                            <td><a href="http://www.abcofurniture.com/" target="_blank">ABCO</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://buddyproducts.com/products/index.php" target="_blank">Buddy</a>
+                            </td>
+                            <td><a href="http://www.kfiseating.com/" target="_blank">KFI</a>
+                            </td>
+                            <td><a href="http://moorecoinc.com/" target="_blank">Balt</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://www.compatico.com/" target="_blank">Compatico</a>
+                            </td>
+                            <td><a href="http://lesro.com/" target="_blank">Lesro</a>
+                            </td>
+                            <td><a href="http://www.claridgeproducts.com/" target="_blank">Claridge</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a target="_blank" href="http://www.of-catalog.com/Catalog/index.html#features/80">Decatur House</a>
+                            </td>
+                            <td><a href="http://www.marvelgroup.com/" target="_blank">Marvel</a>
+                            </td>
+                            <td><a href="http://www.correllinc.com/" target="_blank">Correll</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://www.fireking.com/" target="_blank">Fireking</a>
+                            </td>
+                            <td><a href="https://www.nationalofficefurniture.com/" target="_blank">National</a>
+                            </td>
+                            <td><a href="http://www.hpfi.com/" target="_blank">HPFI</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://www.flexsteel.com/for-business/commercial-office" target="_blank">Flexsteel Contract</a>
+                            </td>
+                            <td><a href="http://www.norsonsindustries.com/" target="_blank">Norsons</a>
+                            </td>
+                            <td><a href="https://www.screenflex.com/" target="_blank">Screenflex</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://www.hirshindustries.com/" target="_blank">Hirsh Industries</a>
+                            </td>
+                            <td><a target="_blank" href="http://www.of-catalog.com/Catalog/index.html#features/80">Office Dimensions</a>
+                            </td>
+                            <td><a href="http://www.virco.com/" target="_blank">Virco</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://www.inlinegroup.ca/" target="_blank">Inline Systems</a>
+                            </td>
+                            <td><a href="http://buddyproducts.com/products/index.php" target="_blank">Sandusky</a>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;
+                            </td>
+                            <td><a href="http://www.tennsco.com/" target="_blank">Tennsco</a>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;
+                            </td>
+                            <td><a target="_blank" href="http://www.of-catalog.com/Catalog/index.html#features/80">Valubilt</a>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td><a target="_blank" href="http://www.of-catalog.com/Catalog/index.html#features/80">X-SEL</a>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+            
+        </div>

@@ -128,13 +128,13 @@ We have our customers to thank for our success!</em>
 <div class="col-md-1">&nbsp;</div>
 </div>
 <!--Our Philosophy section starts here -->
-<div class="row section-head">
+<div class="row section-head" style="height: 5rem; border: 0px solid black; background-color: white; text-align: left;">
 <h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Our Philosophy<a id="our-philosophy"></a></h2>
 </div>
-<div class="row section-hr">
+<div class="row section-hr" style="background-color: white;">
 <hr />
 </div>
-<div class="row section-content">
+<div class="row section-content" style="height: auto; border: 0px solid black; background-color: white; text-align: left;">
 <div class="col-md-1">&nbsp;</div>
 <div class="col-md-10" style="border: 0px solid #1c2f3b; background-color: white; margin-top: 0.5rem;">
 <p style="font-size: 1.6rem; margin: 1rem;"><em>As the premier office furniture distributor in the Southeast, it is our goal to provide the best customer experience.

@@ -617,3 +617,42 @@ input.cta-btn, button.cta-btn, .cta-btn {
     border-radius:4px;
     border: 1px solid #bbb;
 }
+
+/* Category Page Product Boxes */
+
+.grid-item-inner {
+    text-align: center;
+	padding: 2rem 4rem;
+	margin: 1rem;
+	background-color: white;
+	border: 3px solid black;
+	border-radius: 4px;
+}
+
+.grid-item-name-wrap {
+	height: 70px;
+}
+
+/* Product Page styling */
+
+div.page-wrap.product-page.kit-page {
+    padding: 2rem 0;
+}
+
+.image-wrap.product-image-wrap {
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    padding: 2rem 0;
+    background-color: white;
+}
+
+div.product-info-column {
+	background-color: white;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+}
+
+div.product-info {
+	padding-right:1.5rem;
+}
+

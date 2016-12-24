@@ -625,7 +625,7 @@ input.cta-btn, button.cta-btn, .cta-btn {
 	padding: 2rem 4rem;
 	margin: 1rem;
 	background-color: white;
-	border: 3px solid black;
+	border: 1px solid #ddd;
 	border-radius: 4px;
 }
 
@@ -635,7 +635,7 @@ input.cta-btn, button.cta-btn, .cta-btn {
 
 /* Product Page styling */
 
-div.page-wrap.product-page.kit-page {
+div.page-wrap.product-page {
     padding: 2rem 0;
 }
 

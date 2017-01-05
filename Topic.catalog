@@ -38,7 +38,7 @@
 			&nbsp;
 		</div>
 		<div class="col-md-10">
-			<div class="prod-box" style="border-radius: 16px; height: 100rem;">
+			<div class="prod-box" style="border-radius: 16px;">
 				<div class="prod-cat-container" style="border: 0px solid black;">
 					<h4 class="prod-cat-name"><a href="//www.of-catalog.com/Catalog/index.html" target="_blank">Our Catalog</a></h4>
 				</div>
@@ -48,7 +48,7 @@
 					<input class="btn btn-primary" onclick="window.open('//www.of-catalog.com/Catalog/index.html'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px; color: white;" type="button" value="View Catalog"><br>
 					<!--<input style="width:200px; margin:0.5rem 0; background-color: green; color: white;" type="button" value="Download" onclick="download('/docs/NDI-docs/catalog-2016/2016-catalog-full.pdf')">
 <br/>-->
-					<input class="btn btn-default" onclick="window.open('/docs/NDI-docs/catalog-2016/2016-catalog-full.pdf'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px; color: white;" type="button" value="Download"><br>
+					<input class="btn btn-default" onclick="window.open('/docs/2016-catalog-full.pdf'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px;" type="button" value="Download"><br>
 				</div>
 				<script>
 				                    function download(file) {
@@ -59,42 +59,10 @@
 					<h4 class="prod-cat-name">Annual Full-Line Catalog Program</h4>
 				</div>
 				<div class="prod-cat-copy-container">
-					<p style="font-family: proxima-nova; font-size: 14px;">Our annual full-line catalog is filled with office furniture that is in great demand. The catalogs are proven to help promote your business. We offer six different catalog cover choices for you to choose from. The catalogs can be imprinted with your dealer information on them if they are ordered prior to the once per year printing. The imprint deadline is typically by the end of October for the following year. Should you miss the deadline for imprinted catalogs, we have unimprinted catalogs that you can buy. There is plenty of room on the front covers of these unimprinted catalogs to apply labels.</p>
-					<p style="font-family: proxima-nova; font-size: 14px;"><a href="/contact" onclick="ga('send', 'event', 'Link', 'click', this.innerText);" target="_blank">Contact your representative right away to find out more.</a></p>
+					<p style="font-size: 14px;">Our annual full-line catalog is filled with office furniture that is in great demand. The catalogs are proven to help promote your business. We offer six different catalog cover choices for you to choose from. The catalogs can be imprinted with your dealer information on them if they are ordered prior to the once per year printing. The imprint deadline is typically by the end of October for the following year. Should you miss the deadline for imprinted catalogs, we have unimprinted catalogs that you can buy. There is plenty of room on the front covers of these unimprinted catalogs to apply labels.</p>
+					<p style="font-size: 14px;"><a href="/contactus" onclick="ga('send', 'event', 'Link', 'click', this.innerText);" target="_blank">Contact your representative right away to find out more.</a></p>
 				</div><br>
 			</div>
-		</div>
-		<div class="col-md-1">
-			&nbsp;
-		</div>
-	</div>
-	<div class="row" style="height: 5rem; border: 0px solid black; background-color: white; text-align: left;">
-		<div class="col-md-1">
-			&nbsp;
-		</div>
-		<div class="col-md-10">
-			<h2 style="position: relative; left: 5%; font-family: Clarendon-Text-Pro;">Who We Are<a id="who-we-are"></a></h2>
-		</div>
-		<div class="col-md-1">
-			&nbsp;
-		</div>
-	</div>
-	<div class="row" style="background-color: white;">
-		<hr>
-	</div>
-	<div class="row" style="height: auto; border: 0px solid black; background-color: white; text-align: left;">
-		<div class="col-md-1">
-			&nbsp;
-		</div>
-		<div class="col-md-10" style="border: 0px solid #1c2f3b; background-color: white; margin-top: 0.5rem;">
-			<ul style="font-size: 1.6rem; margin: 0px 6rem; list-style: outside none disc;">
-				<li>WE ARE an office furniture distributor located in the southeast. We take pride in our southern heritage and place an emphasis on <strong>southern-style service</strong>.</li>
-				<li>WE DELIVER from 3 Distribution &amp; Logistic Centers (located in AL, FL and TX) with more than <strong>200,000 square feet</strong> of space on <strong>NDI trucks driven by NDI employees</strong>. We own the process from start to finish so that we can be the best for you!</li>
-				<li>WE SERVE YOU through customer service teams staffed by <strong>friendly</strong> professionals from Dallas and Nashville. We are always ready and happy to get it done for you!</li>
-				<li>FOR OVER <strong>30 YEARS</strong> we’ve been knocking it out of the park for our customers in the southeast. We're ready to show you the difference NDI makes!</li>
-			</ul><br>
-			<p style="font-size: 2rem; margin: 0px 1rem; font-weight: 800; text-align: center;"><em>WE ARE the standard for service in the southeastern United States. Don’t settle for anything less!</em></p><br>
-			<br>
 		</div>
 		<div class="col-md-1">
 			&nbsp;

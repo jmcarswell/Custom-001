@@ -45,10 +45,10 @@
 				<div class="prod-cat-img-container" style="border: 0px solid black; margin: 2rem 0px; height: 35rem; position:relative;">
 					<img alt="" onclick="window.open('//www.of-catalog.com/Catalog/index.html'); ga('send', 'event', 'Image', 'click', 'Catalog');" src="/images/2016-catalog-covers-page5.jpeg" style="border: 2px solid black; cursor: pointer;"></div>
 				<div style="border: 0px solid black; text-align: center;">
-					<input onclick="window.open('//www.of-catalog.com/Catalog/index.html'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px; background-color: green; color: white;" type="button" value="View Catalog"><br>
+					<input class="btn btn-primary" onclick="window.open('//www.of-catalog.com/Catalog/index.html'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px; color: white;" type="button" value="View Catalog"><br>
 					<!--<input style="width:200px; margin:0.5rem 0; background-color: green; color: white;" type="button" value="Download" onclick="download('/docs/NDI-docs/catalog-2016/2016-catalog-full.pdf')">
 <br/>-->
-					<a href="/docs/NDI-docs/catalog-2016/2016-catalog-full.pdf" onclick="ga('send', 'event', 'Button', 'download', 'Catalog');" style="width: 200px; height: 38px; margin: 0.5rem 0px; display: inline-block; background-color: green; color: white; border: 1px solid #bbbbbb; border-radius: 4px; font-size: 11px; font-weight: 600; letter-spacing: 0.1rem; line-height: 38px; padding: 0px 30px; text-align: center; text-decoration: none;">DOWNLOAD</a>
+					<input class="btn btn-default" onclick="window.open('/docs/NDI-docs/catalog-2016/2016-catalog-full.pdf'); ga('send', 'event', 'Button', 'click', 'View Catalog');" style="width: 200px; margin: 0.5rem 0px; color: white;" type="button" value="Download"><br>
 				</div>
 				<script>
 				                    function download(file) {
